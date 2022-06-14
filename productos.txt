@@ -1,0 +1,44 @@
+[
+	{
+		"title": "Mazo commander 1",
+		"price": 100,
+		"thumbnail": "https://http2.mlstatic.com/D_NQ_NP_847134-MLA49546578890_042022-O.webp",
+		"id": 1
+	},
+	{
+		"title": "Mazo comander 2",
+		"price": 200,
+		"thumbnail": "https://www.elrincondemagic.com/WebRoot/StoreLES/Shops/64576138/620A/2932/5562/8124/B02B/0A0C/6D0D/296B/Mazo_NEO_Abrochate_Cinturon.png",
+		"id": 2
+	},
+	{
+		"title": "Mazo comander 3",
+		"price": 300,
+		"thumbnail": "https://media.magic.wizards.com/en_PaLTnONM9E.png",
+		"id": 3
+	},
+	{
+		"title": "Mazo comander 4",
+		"price": 400,
+		"thumbnail": "https://www.elrincondemagic.com/WebRoot/StoreLES/Shops/64576138/5EA9/426B/6A87/8F3E/696A/0A0C/6D0B/4F50/Mazo_Commander_Ikoria_Ruthless_Regiment_m.png",
+		"id": 4
+	},
+	{
+		"title": "Mazo comander 5",
+		"price": 500,
+		"thumbnail": "https://www.elrincondemagic.com/WebRoot/StoreLES/Shops/64576138/5EA9/426B/6A87/8F3E/696A/0A0C/6D0B/4F50/Mazo_Commander_Ikoria_Ruthless_Regiment_m.png",
+		"id": 5
+	},
+	{
+		"title": "Mazo commander 6",
+		"price": 600,
+		"thumbnail": "https://crashcomics.es/35195-large_default/magic-escarlata.jpg",
+		"id": 6
+	},
+	{
+		"title": "Mazo commander 7",
+		"price": 600,
+		"thumbnail": "https://crashcomics.es/35195-large_default/magic-escarlata.jpg",
+		"id": 7
+	}
+]
